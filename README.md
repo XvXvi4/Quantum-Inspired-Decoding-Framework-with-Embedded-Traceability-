@@ -15,6 +15,14 @@ This repository contains a complete implementation and documentation of the quan
 - [Testing and Verification](#testing-and-verification)
 - [Future Work](#future-work)
 - [References](#references)
-- [License](#license)
+  ## License
+This project is licensed under the **Sherman G. Laing Proprietary License**.
+
+- **Usage**: Viewing and referencing this work is allowed for personal and academic purposes.
+- **Restrictions**: Any commercial use, modification, or distribution requires explicit permission.
+- **Attribution**: Proper credit must be given to Sherman G. Laing.
+
+For licensing inquiries, contact Sherman G. Laing at [your email].
+
 
 ---
