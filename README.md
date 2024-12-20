@@ -1,7 +1,7 @@
 # Quantum-Inspired Decoding Framework with Embedded Traceability
 
 **Author:** Sherman G. Ling 
-**License:** [MIT](LICENSE)
+**License:** 
 
 This repository contains a complete implementation and documentation of the quantum-inspired decoding framework as described in the accompanying research paper. The framework integrates dynamic optimization factors derived from quantum-inspired logic, embedded failsafe traceability markers, and SHA-256 hash validation for decoding encrypted or obfuscated binary data streams. It also includes example datasets and code to reproduce the results.
 
